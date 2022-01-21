@@ -7,4 +7,8 @@ public Date getSysDate() {
 	return new Date();
 	
 }
+	public void m2() {
+		System.out.println("m2");
+		
+	}
 }
